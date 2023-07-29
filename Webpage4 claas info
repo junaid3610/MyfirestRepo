@@ -1,0 +1,67 @@
+<html>
+<body>
+
+<head>
+<title>form</title>
+
+<picture>
+<source media="(min-width:848px)" srcset="collageArt.jpg">
+<source media="(min-length:413px)" srcset="collageArt.jpg">
+<img src ="collageArt.jpg">
+</picture>
+
+
+<body style="background-color:silver;"/>
+</head>
+
+ 
+<form >
+<h2 style="text-transform:uppercase; text-align:center;">Class Information</h2>
+<fieldset>
+<legend align="left" style="text-transform:uupercase; font-size:1.8em">Student Biodata:</legend>
+
+
+
+First Name:<input type="text"><br><br>
+
+Middle Name:<input type="text"><br><br>
+
+Last Name:<input type="text"><br><br>
+
+Contact Number:<input type="text"><br><br>
+
+
+
+
+
+Gender:
+<input type="radio" name="gender" value="male" checked>Male
+<input type="radio" name="gender" value="famale"checked >Female
+<br><br>
+
+
+<label>Date of Birth</label>
+<input type ="date"  id= "datemin"  name= "datemin"  min="1995-01-01"> 
+
+
+<input type ="submit" value="Submit" name="submit">
+
+</li><p><h3> &#128077 </h3> </p>
+
+
+
+
+<ul>
+<li><a href="www.ManualTesting.com"/> Manual Testing </a>
+<li><a href="www.google.com"/> Developer </a>
+<li><a href="www.AutomationTesting.com"/> Automation Testing </a>
+</ul>
+
+
+</form>
+
+
+
+</body>
+</html>
+

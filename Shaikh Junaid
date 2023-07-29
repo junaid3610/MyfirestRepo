@@ -1,0 +1,48 @@
+<html>
+<head>
+ 	<title> Background Images </title>
+</head>
+
+
+<body background="medicine">
+<h1>Welcome to Health Plan By Shaikh Junaid </h1>
+<h5>Compare & Buy customised Health Plans Starting at just Rs.257/month*</h3>
+
+<label>Male</label>
+<input type ="radio" id ="male" name ="male" value ="male">
+
+
+<label>Female</label>
+<input type ="radio" id ="female" name ="female" value ="female">
+<br>
+
+<label>Name</label>
+<input type ="text" id ="name" name="name" >
+<br>
+<br>
+
+
+<label>Mobile Number</label>
+<input type ="text" id ="Mobile Number" name="Mobile Number"
+<br>
+
+
+
+<input type ="checkbox" id ="Terms & Condition" name="Terms & Condition"
+value="Terms & Condition">
+<label> Communicate on Whatsapp </label>
+<br>
+
+
+<a href ="https://www.topresultsquickly.com/"> View Plans </a>
+
+
+
+
+
+
+
+
+
+</body>
+</html>

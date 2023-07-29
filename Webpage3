@@ -1,0 +1,93 @@
+<html>
+<body>
+
+
+<label><h3><a href ="//www.google.com/"> Sign Up</h3></label> 
+
+<label><h3><a href ="//www.google.com/">Log in</h3><label>
+
+<label><h1> Sign Up for Free</h1></label> <br>
+
+
+<label>First Name</label>
+<input type ="text"  id="first name" name="first name"> 
+
+
+<label>Last Name</label>
+<input type="text" id="last name"  name="last name">
+<br><br>
+
+
+<label><h3>Set A Password</h3></label>
+<input type="text" id "set a password"  name ="set a password">
+<br><br><br>
+
+
+<a href ="https://www.go to home.com/"><h4>Get Started</h4></a>
+<br>
+
+
+<table border ="1" cellpadding="4"  cellspacing="0">
+
+
+<tr> 
+<th>First Name </th>
+<th>Last Name </th>
+<th>Mobile Number </th>
+<th>Job Profile</th>
+<th>Year</th>
+<th>Salary</th>
+
+
+<tr>
+<td>xyz</td>
+<td>abc</td>
+<td>95445111584</td>
+<td>Developer</td>
+<td>2018</td>
+<td>200000</td>
+
+
+<tr>
+
+<td><h2><body style="color:green;"/>  Junaid</h2></td>
+<td><h4>Shaikh</h4></td>
+<td><h4>9011777191</h4></td>
+<td><h4>Automation Tester</h4></td>
+<td><h4>2019<h4></td>
+<td><h3>100000</h3></td>
+
+
+<tr>
+<td>pqr</td>
+<td>yzx</td>
+<td>94545111584</td>
+<td>Designer</td>
+<td>2020</td>
+<td>300000</td>
+
+
+<tr>
+<td>xyz</td>
+<td>abx</td>
+<td>65748885654</td>
+<td>Studying</td>
+<td>2022</td>
+<td>000000</td>
+
+
+
+</table>
+
+<p><h1> &#128513 </h1> </p>
+<p><h2> &#128525 </h2> </p>
+<p><h4> &#169 </h4> </p>
+<p><h5>  &#189 </h5> </p>
+<p><h6> &#9829 </h6> </p>
+<p> &#128410</p>
+<p> &#128420</p>
+
+
+</body>
+</html>
+
